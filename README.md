@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Kasinath KB 👋
 
-<!--
-**kasinath-cloud/kasinath-cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Cloud & DevOps Trainee | AWS | Linux | Ansible
 
-Here are some ideas to get you started:
+I'm building my career in **Cloud Computing and DevOps** and currently developing hands-on skills in AWS, Linux, Ansible, and cloud infrastructure.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+
+- ☁️ AWS
+- 🐧 Linux
+- ⚙️ Ansible
+- 🚀 DevOps
+- 🌐 Cloud Infrastructure
+- 🐍 Python
+
+## 📚 Currently Learning
+
+- Red Hat Linux
+- Ansible Automation
+- AWS Cloud
+- DevOps
+- Cloud Infrastructure
+
+## 🚀 Projects
+
+### SkyAssist – Flight Service Request System
+
+A hands-on AWS project created to practice cloud infrastructure and deployment.
+
+More projects will be added as I continue learning.
+
+## 🎯 Career Goal
+
+To build a career in **Cloud, DevOps, and Cloud Infrastructure** and continue developing practical skills through real-world projects.
+
+---
+
+📍 Kerala, India
